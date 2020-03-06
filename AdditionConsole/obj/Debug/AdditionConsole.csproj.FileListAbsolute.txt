@@ -1,0 +1,10 @@
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\bin\Debug\AdditionConsole.exe.config
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\bin\Debug\AdditionConsole.exe
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\bin\Debug\AdditionConsole.pdb
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\bin\Debug\ClassLibraryAddition.dll
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\bin\Debug\ClassLibraryAddition.pdb
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\obj\Debug\AdditionConsole.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\obj\Debug\AdditionConsole.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\obj\Debug\AdditionConsole.csproj.CopyComplete
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\obj\Debug\AdditionConsole.exe
+C:\Users\CRM\Documents\Patern\composite\Addition\AdditionConsole\obj\Debug\AdditionConsole.pdb

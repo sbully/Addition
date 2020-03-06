@@ -1,0 +1,6 @@
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\bin\Debug\ClassLibraryAddition.dll
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\bin\Debug\ClassLibraryAddition.pdb
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\obj\Debug\ClassLibraryAddition.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\obj\Debug\ClassLibraryAddition.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\obj\Debug\ClassLibraryAddition.dll
+C:\Users\CRM\Documents\Patern\composite\Addition\ClassLibraryAddition\obj\Debug\ClassLibraryAddition.pdb

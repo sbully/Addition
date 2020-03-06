@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryAddition.Nombre">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgACAAAAABAAAAAAAA=</HashCode>
+      <FileName>Nombre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryAddition.Expression">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryAddition.Binaire">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="ClassLibraryAddition.Expression" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.5" Y="1.795" />
+        <Point X="1.5" Y="2.167" />
+        <Point X="3.812" Y="2.167" />
+        <Point X="3.812" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Op1" Type="ClassLibraryAddition.Expression" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.188" Y="2.5" />
+        <Point X="4.188" Y="1.148" />
+        <Point X="2.25" Y="1.148" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Op2" Type="ClassLibraryAddition.Expression" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.625" Y="2.5" />
+        <Point X="4.625" Y="0.788" />
+        <Point X="2.25" Y="0.788" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Binaire.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Op1" />
+      <Property Name="Op2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryAddition.Addition">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Addition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryAddition.Soustraction">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Soustraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
